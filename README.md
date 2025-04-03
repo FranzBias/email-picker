@@ -153,7 +153,7 @@ Fatto!
 MIT – fate quello che volete, basta che non rimuoviate il mio nome 😉
 
 ## ✍️ Autore
-Realizzato con ❤️ da Franz Bias (Francesco Bianchi) [https://www.bybias.com](https://www.bybias.com)
+Realizzato con ❤️ da Franz Bias (Francesco) [https://www.bybias.com](https://www.bybias.com)
 
 ## 🤝 Collabora
 
