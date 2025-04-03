@@ -46,7 +46,7 @@ From inside the project folder:
 ## 🖥️ Desktop Integration (Optional)
 
 You can create a `.desktop` launcher for Linux Mint / Ubuntu and run this script like any installed app.<BR>
-To do this, first create a file with a name of your choice (for example: choose an email.desktop address) with a `.desktop` extension wherever you want, and paste this into it (this is what I wrote, you can modify it as you wish):
+To do this, first create a file with a name of your choice (for example: choose_an_email.desktop`) with a `.desktop` extension wherever you want, and paste this into it (this is what I wrote, you can modify it as you wish):
 ```
 [Desktop Entry]
 Name=Choose Email
@@ -56,7 +56,7 @@ Terminal=false
 Type=Application
 Categories=Utility;
 ```
-INFO: I've assumed that the file choose_email.py is located in /Scripts in your /home folder. Edit as you like.
+**INFO:** I've assumed that the file choose_email.py is located in /Scripts in your /home folder. Edit as you like.
 Once you've saved your launcher, copy it to the folder ~/.local/share/applications/
 Done!
 
@@ -129,7 +129,7 @@ Type=Application
 Categories=Utility;
 ```
 **INFO:** Ho dato per scontato che il file choose_email.py si trovi in /Scripts nella vostra cartella /home. Modificate a vostro piacimento.
-Una volta salvato il vostro launcher, copiatelo nella cartella `~/.local/share/applications/`
+Una volta salvato il vostro launcher, **copiatelo nella cartella** `~/.local/share/applications/`
 Fatto!
 
 ## 📄 Licenza
@@ -138,3 +138,5 @@ MIT – fate quello che volete, basta che non rimuoviate il mio nome 😉
 
 ## ✍️ Autore
 Realizzato con ❤️ da Franz Bias (Francesco Bianchi) [https://www.bybias.com](https://www.bybias.com)
+
+---
