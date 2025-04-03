@@ -4,9 +4,9 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Author](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20by%20Francesco-blueviolet)
 
-(qui trovate [la traduzione in italiano](#italian) del seguente testo)
+* (qui trovate [la traduzione in italiano](#italian) del seguente testo)
 
-A lightweight Python GUI that allows you to select one of multiple predefined email addresses and automatically copy it to your clipboard.
+### A lightweight Python GUI that allows you to select one of multiple predefined email addresses and automatically copy it to your clipboard.
 
 ![Screenshot Choose an Email](screenshot.png)
 
