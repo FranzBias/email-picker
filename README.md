@@ -71,9 +71,8 @@ MIT – do whatever you want, just don't remove my name 😉
 
 ## ✍️ Author
 
-Made with ❤️ by Franz Bias (Francesco)  
-[https://www.bybias.com](https://www.bybias.com)<BR>
-[![GitHub stars](https://img.shields.io/github/stars/FranzBias/email-picker?style=social)](https://github.com/FranzBias/email-picker/stargazers)
+Made with ❤️ by Franz Bias (Francesco)  [![GitHub stars](https://img.shields.io/github/stars/FranzBias/email-picker?style=social)](https://github.com/FranzBias/email-picker/stargazers)<BR>
+[https://www.bybias.com](https://www.bybias.com)
 
 ## 🤝 Contribute
 
@@ -154,8 +153,8 @@ Fatto!
 MIT – fate quello che volete, basta che non rimuoviate il mio nome 😉
 
 ## ✍️ Autore
-Realizzato con ❤️ da Franz Bias (Francesco) [https://www.bybias.com](https://www.bybias.com)<BR>
-[![GitHub stars](https://img.shields.io/github/stars/FranzBias/email-picker?style=social)](https://github.com/FranzBias/email-picker/stargazers)
+Realizzato con ❤️ da Franz Bias (Francesco)  [![GitHub stars](https://img.shields.io/github/stars/FranzBias/email-picker?style=social)](https://github.com/FranzBias/email-picker/stargazers)<BR>
+[https://www.bybias.com](https://www.bybias.com)
 
 ## 🤝 Collabora
 
