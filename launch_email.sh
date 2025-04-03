@@ -1,4 +1,5 @@
 #!/bin/bash
 # Activate virtual environment and run the script
-source "$(dirname "$0")/venv/bin/activate"
-python "$(dirname "$0")/choose_email.py"
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$DIR/venv/bin/activate"
+python "$DIR/choose_email.py"
