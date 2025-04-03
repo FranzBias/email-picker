@@ -1,4 +1,9 @@
 # Email Picker
+
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Author](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20by%20Francesco-blueviolet)
+
 (qui trovate [la traduzione in italiano](#italian) del seguente testo)
 
 A lightweight Python GUI that allows you to select one of multiple predefined email addresses and automatically copy it to your clipboard.
@@ -66,8 +71,19 @@ MIT – do whatever you want, just don't remove my name 😉
 
 ## ✍️ Author
 
-Made with ❤️ by Franz Bias (Francesco Bianchi)  
+Made with ❤️ by Franz Bias (Francesco)  
 [https://www.bybias.com](https://www.bybias.com)
+
+## 🤝 Contribute
+
+Contributions are welcome!  
+If you have suggestions, improvements, or bug reports, feel free to:
+
+- Fork this repository
+- Make your changes
+- Open a pull request
+
+Even feedback is appreciated. Let's improve this together!
 
 ---
 
@@ -138,5 +154,16 @@ MIT – fate quello che volete, basta che non rimuoviate il mio nome 😉
 
 ## ✍️ Autore
 Realizzato con ❤️ da Franz Bias (Francesco Bianchi) [https://www.bybias.com](https://www.bybias.com)
+
+## 🤝 Collabora
+
+I vostri  contributi sono benvenuti!<BR>
+Se avete suggerimenti, miglioramenti o segnalazioni di bug, non esitate a:
+
+- Forkare questo repository
+- Apportare le vostre modifiche
+- Aprire una pull request
+
+Anche il feedback è apprezzato. Miglioriamolo insieme!
 
 ---
