@@ -33,7 +33,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ## ⚡️ Insert your own email addresses
-In the `choose_email.py` file, under the comment `Example email list – you can customize these`, there are some fictitious email addresses (for example: email.address1@your.site). Modify these addresses and add as many as you want by putting them in quotation marks (" ")
+In the `choose_email.py` file, under the comment `Example email list – you can customize these`, there are some fictitious email addresses (for example: `email.address1@your.site`). Modify these addresses and add as many as you want by putting them in quotation marks (" ")
 
 ## 🚀 Run the App
 
@@ -107,7 +107,7 @@ pip install -r requirements.txt
 ```
 
 ## ⚡️ Per inserire i propri indirizzi e-mail
-Nel file `choose_email.py`, sotto il commento `Example email list – you can customize these`, ci sono alcuni indirizzi e-mail fittizi (ad esempio: email.address1@your.site). Si modifichino questi indirizzi e se ne aggiungano quanti se ne desidera mettendoli tra virgolette (” ”)
+Nel file `choose_email.py`, sotto il commento `Example email list – you can customize these`, ci sono alcuni indirizzi e-mail fittizi (ad esempio: `email.address1@your.site`). Si modifichino questi indirizzi e se ne aggiungano quanti se ne desidera mettendoli tra virgolette (” ”)
 
 ## 🚀 Per eseguire l'app
 Dall'interno della cartella del progetto:
