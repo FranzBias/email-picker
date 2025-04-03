@@ -1,8 +1,10 @@
 # Email Picker
-(qui trovate la traduzione in italiano del seguente testo)
+(qui trovate [la traduzione in italiano](#italian) del seguente testo)
 
 A lightweight Python GUI that allows you to select one of multiple predefined email addresses and automatically copy it to your clipboard.
+
 ![Screenshot Choose an Email](screenshot.png)
+
 ## ✨ Features
 
 - Clean dark-themed graphical interface
@@ -55,6 +57,8 @@ Made with ❤️ by Franz Bias (Francesco Bianchi)
 [https://www.bybias.com](https://www.bybias.com)
 
 ---
+
+<a id="italian"></a>Traduzione in italiano (Italian translation):
 
 # Email Picker
 Una GUI Python leggera che consente di selezionare uno dei numerosi indirizzi e-mail predefiniti e copiarlo automaticamente negli appunti.
