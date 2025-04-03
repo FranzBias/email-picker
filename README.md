@@ -72,7 +72,8 @@ MIT – do whatever you want, just don't remove my name 😉
 ## ✍️ Author
 
 Made with ❤️ by Franz Bias (Francesco)  
-[https://www.bybias.com](https://www.bybias.com)
+[https://www.bybias.com](https://www.bybias.com)<BR>
+[![GitHub stars](https://img.shields.io/github/stars/FranzBias/email-picker?style=social)](https://github.com/FranzBias/email-picker/stargazers)
 
 ## 🤝 Contribute
 
@@ -87,7 +88,7 @@ Even feedback is appreciated. Let's improve this together!
 
 ---
 
-<a id="italian"></a>Traduzione in italiano (Italian translation):
+### <a id="italian"></a>Traduzione in italiano (Italian translation):
 
 # Email Picker
 Una GUI Python leggera che consente di selezionare uno dei numerosi indirizzi e-mail predefiniti e copiarlo automaticamente negli appunti.
@@ -153,7 +154,8 @@ Fatto!
 MIT – fate quello che volete, basta che non rimuoviate il mio nome 😉
 
 ## ✍️ Autore
-Realizzato con ❤️ da Franz Bias (Francesco) [https://www.bybias.com](https://www.bybias.com)
+Realizzato con ❤️ da Franz Bias (Francesco) [https://www.bybias.com](https://www.bybias.com)<BR>
+[![GitHub stars](https://img.shields.io/github/stars/FranzBias/email-picker?style=social)](https://github.com/FranzBias/email-picker/stargazers)
 
 ## 🤝 Collabora
 
