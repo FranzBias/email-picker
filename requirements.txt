@@ -1,2 +1,5 @@
 customtkinter
 pillow
+pynput
+plyer
+pystray

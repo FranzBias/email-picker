@@ -1,0 +1,31 @@
+{
+  "tabs": [
+    {
+      "id": "personal",
+      "label": "Personal",
+      "order": 0,
+      "entries": [
+        {"name": "Main", "email": "jane.doe@example.com"},
+        {"name": "Family", "email": "doe.family@example.org"}
+      ]
+    },
+    {
+      "id": "work",
+      "label": "Work",
+      "order": 1,
+      "entries": [
+        {"name": "Office", "email": "j.doe@company.example"},
+        {"name": "Support", "email": "support@company.example"}
+      ]
+    },
+    {
+      "id": "aliases",
+      "label": "Aliases",
+      "order": 2,
+      "entries": [
+        {"name": "Newsletters", "email": "news.jane@example.net"},
+        {"name": "", "email": "shopping.jane@example.net"}
+      ]
+    }
+  ]
+}

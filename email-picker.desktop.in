@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=Email Picker
+GenericName=Copy an email address
+GenericName[it]=Copia un indirizzo email
+GenericName[de]=E-Mail-Adresse kopieren
+Comment=Pick one of your email addresses and copy it to the clipboard
+Comment[it]=Scegli uno dei tuoi indirizzi email e copialo negli appunti
+Comment[de]=Wähle eine deiner E-Mail-Adressen und kopiere sie in die Zwischenablage
+Exec=python3 "@APPDIR@/email-picker.py"
+Path=@APPDIR@
+Icon=mail-mark-important
+Terminal=false
+Categories=Utility;Network;Email;
+Keywords=mail;email;address;clipboard;copy;
+StartupNotify=false
