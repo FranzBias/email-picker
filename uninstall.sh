@@ -1,4 +1,14 @@
 #!/usr/bin/env bash
+##########################################################
+##               Email Picker - uninstall               ##
+##            Remove the app, keep your list            ##
+##                   written in Bash                    ##
+##                          🍕                          ##
+##    by FranzBias 2025-2026 · github.com/FranzBias     ##
+##            Licensed under the MIT License            ##
+##          See LICENSE file for full license.          ##
+##########################################################
+# SPDX-License-Identifier: MIT
 # Email Picker — removes the app and the menu entry.
 # Why: a clean way back. Your address list in ~/.config/email-picker is kept
 # unless you pass --purge.

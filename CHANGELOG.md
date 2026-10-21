@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.1.1 — 2026-10-21
+- Signature banner at the top of `email-picker.py`, `install.sh` and `uninstall.sh` (with SPDX licence tag). No change in behaviour.
+
 ## 2.1.0 — 2026-10-20
 - **New app**, replacing the old `choose_email.py` dropdown: addresses in tabs from `emails.json`, global search, tray icon, global shortcut, 4 themes, remembered window geometry.
 - Tray: uses AyatanaAppIndicatorGlib when installed, otherwise pystray with the "libayatana-appindicator is deprecated" warning silenced.

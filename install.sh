@@ -1,4 +1,14 @@
 #!/usr/bin/env bash
+##########################################################
+##                Email Picker - install                ##
+##        Install for the current user, no sudo         ##
+##                   written in Bash                    ##
+##                          🍕                          ##
+##    by FranzBias 2025-2026 · github.com/FranzBias     ##
+##            Licensed under the MIT License            ##
+##          See LICENSE file for full license.          ##
+##########################################################
+# SPDX-License-Identifier: MIT
 # Email Picker — installation for the current user only (no sudo).
 # Why: one command puts the app in ~/.local/share/email-picker, your data in
 # ~/.config/email-picker (never overwritten) and the menu entry

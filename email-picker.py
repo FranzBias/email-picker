@@ -1,6 +1,16 @@
 #!/usr/bin/env python3
+##########################################################
+##                     Email Picker                     ##
+##         Your email addresses, one click away         ##
+##                 written in Python 3                  ##
+##                          🍕                          ##
+##    by FranzBias 2025-2026 · github.com/FranzBias     ##
+##            Licensed under the MIT License            ##
+##          See LICENSE file for full license.          ##
+##########################################################
+# SPDX-License-Identifier: MIT
 """
-Email-Picker v2.1 — FranzBias / code-x.md
+Email-Picker v2.1.1 — FranzBias / code-x.md
 
 Why this exists:
     Franz uses many email addresses (personal, projects, services). Typing them
