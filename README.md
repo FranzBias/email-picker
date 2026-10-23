@@ -6,9 +6,10 @@
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Author](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20by%20Francesco-blueviolet)
+[![GitLab mirror](https://img.shields.io/badge/mirror-GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/FranzBias/email-picker)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=HUF5MYDG465RY)
 
-![Email Picker](screenshots/email-picker.png)
+![Email Picker](screenshots/email-picker.png) ![Email Picker — edit mode](screenshots/email-picker-edit.png)
 
 **[English](#english)** · **[Italiano](#italiano)** · **[Deutsch](#deutsch)** · **[Español](#espanol)** · **[Français](#francais)** · **[Nederlands](#nederlands)** · **[Русский](#russkij)** · **[العربية](#arabic)** · **[中文](#chinese)** · **[日本語](#japanese)**
 
@@ -24,6 +25,7 @@
 - **Global search** across all tabs (name or address)
 - One click → address in the clipboard, a desktop notification, window hides itself
 - **Tray icon** (Show / Quit) and **global shortcut** `Ctrl+Shift+E` (configurable)
+- **Edit mode** ✏️: add, edit, delete and reorder addresses and tabs right in the window — no need to touch the JSON file
 - 4 themes: `dark`, `light`, `mint`, `system`
 - Remembers window size and position
 - Works with **[Lampo Mail](https://github.com/FranzBias/Lampo-Mail)**, which can read your addresses and add new ones
@@ -77,6 +79,7 @@ MIT — do what you like, just keep my name 😉 · Made with ❤️ by Franz Bi
 - **Ricerca globale** su tutte le schede (nome o indirizzo)
 - Un click → indirizzo negli appunti, notifica sul desktop, la finestra si nasconde
 - **Icona nel vassoio** (Mostra / Esci) e **scorciatoia globale** `Ctrl+Maiusc+E` (modificabile)
+- **Modalità modifica** ✏️: aggiungi, modifica, elimina e riordina indirizzi e schede direttamente nella finestra, senza toccare il file JSON
 - 4 temi: `dark`, `light`, `mint`, `system`
 - Ricorda dimensione e posizione della finestra
 - Va d'accordo con **[Lampo Mail](https://github.com/FranzBias/Lampo-Mail)**, che legge i tuoi indirizzi e ne aggiunge di nuovi
@@ -121,6 +124,7 @@ MIT — fate quello che volete, basta che non togliate il mio nome 😉 · Reali
 - **Globale Suche** über alle Reiter (Name oder Adresse)
 - Ein Klick → Adresse in der Zwischenablage, Desktop-Benachrichtigung, das Fenster verschwindet
 - **Tray-Symbol** (Anzeigen / Beenden) und **globales Kürzel** `Strg+Umschalt+E` (änderbar)
+- **Bearbeitungsmodus** ✏️: Adressen und Reiter direkt im Fenster hinzufügen, bearbeiten, löschen und umsortieren – ohne die JSON-Datei anzufassen
 - 4 Themes: `dark`, `light`, `mint`, `system`; Fenstergröße und -position werden gespeichert
 - Arbeitet mit **[Lampo Mail](https://github.com/FranzBias/Lampo-Mail)** zusammen, das deine Adressen liest und neue hinzufügt
 
@@ -164,6 +168,7 @@ MIT — mach damit, was du willst, nur meinen Namen bitte drinlassen 😉 · Mit
 - **Búsqueda global** en todas las pestañas (nombre o dirección)
 - Un clic → dirección en el portapapeles, notificación de escritorio, la ventana se oculta
 - **Icono en la bandeja** (Mostrar / Salir) y **atajo global** `Ctrl+Mayús+E` (configurable)
+- **Modo edición** ✏️: añade, edita, borra y reordena direcciones y pestañas en la propia ventana, sin tocar el archivo JSON
 - 4 temas: `dark`, `light`, `mint`, `system`; recuerda tamaño y posición de la ventana
 - Se entiende con **[Lampo Mail](https://github.com/FranzBias/Lampo-Mail)**, que lee tus direcciones y añade otras nuevas
 
@@ -207,6 +212,7 @@ MIT — haz lo que quieras, solo no quites mi nombre 😉 · Hecho con ❤️ po
 - **Recherche globale** dans tous les onglets (nom ou adresse)
 - Un clic → adresse dans le presse-papiers, notification de bureau, la fenêtre se cache
 - **Icône de notification** (Afficher / Quitter) et **raccourci global** `Ctrl+Maj+E` (modifiable)
+- **Mode édition** ✏️ : ajoute, modifie, supprime et réordonne adresses et onglets directement dans la fenêtre, sans toucher au fichier JSON
 - 4 thèmes : `dark`, `light`, `mint`, `system` ; mémorise taille et position de la fenêtre
 - S'entend avec **[Lampo Mail](https://github.com/FranzBias/Lampo-Mail)**, qui lit tes adresses et en ajoute de nouvelles
 
@@ -250,6 +256,7 @@ MIT — fais-en ce que tu veux, garde juste mon nom 😉 · Fait avec ❤️ par
 - **Globaal zoeken** in alle tabbladen (naam of adres)
 - Eén klik → adres op het klembord, een bureaubladmelding, het venster verdwijnt
 - **Pictogram in het systeemvak** (Tonen / Afsluiten) en **globale sneltoets** `Ctrl+Shift+E` (instelbaar)
+- **Bewerkmodus** ✏️: adressen en tabbladen toevoegen, bewerken, verwijderen en herschikken in het venster zelf, zonder het JSON-bestand aan te raken
 - 4 thema's: `dark`, `light`, `mint`, `system`; onthoudt grootte en positie van het venster
 - Werkt samen met **[Lampo Mail](https://github.com/FranzBias/Lampo-Mail)**, dat je adressen leest en nieuwe toevoegt
 
@@ -293,6 +300,7 @@ MIT — doe ermee wat je wilt, laat alleen mijn naam staan 😉 · Gemaakt met �
 - **Глобальный поиск** по всем вкладкам (имя или адрес)
 - Один щелчок → адрес в буфере обмена, уведомление на рабочем столе, окно скрывается
 - **Значок в трее** (Показать / Выход) и **глобальное сочетание** `Ctrl+Shift+E` (настраивается)
+- **Режим правки** ✏️: добавляйте, изменяйте, удаляйте и переставляйте адреса и вкладки прямо в окне, не трогая файл JSON
 - 4 темы: `dark`, `light`, `mint`, `system`; запоминает размер и положение окна
 - Работает вместе с **[Lampo Mail](https://github.com/FranzBias/Lampo-Mail)**, который читает ваши адреса и добавляет новые
 
@@ -338,6 +346,7 @@ MIT — делайте что хотите, только оставьте моё
 - **بحث شامل** في كل الألسنة (الاسم أو العنوان)
 - نقرة واحدة ← العنوان في الحافظة، إشعار على سطح المكتب، وتختفي النافذة
 - **أيقونة في شريط النظام** (إظهار / خروج) و**اختصار عام** `Ctrl+Shift+E` (قابل للتغيير)
+- **وضع التحرير** ✏️: أضف العناوين والألسنة وعدّلها واحذفها وأعد ترتيبها من النافذة نفسها، دون لمس ملف JSON
 - 4 سمات: `dark`، `light`، `mint`، `system`؛ ويتذكر حجم النافذة وموضعها
 - يعمل مع **[Lampo Mail](https://github.com/FranzBias/Lampo-Mail)** الذي يقرأ عناوينك ويضيف عناوين جديدة
 
@@ -389,6 +398,7 @@ MIT — افعل ما تشاء، فقط أبقِ اسمي 😉 · صُنع بـ 
 - 在所有标签页中**全局搜索**（名称或地址）
 - 单击 → 地址进入剪贴板，弹出桌面通知，窗口自动隐藏
 - **托盘图标**（显示 / 退出）和**全局快捷键** `Ctrl+Shift+E`（可配置）
+- **编辑模式** ✏️：直接在窗口中添加、编辑、删除和重新排序地址与标签页，无需手动修改 JSON 文件
 - 4 种主题：`dark`、`light`、`mint`、`system`；记住窗口大小和位置
 - 与 **[Lampo Mail](https://github.com/FranzBias/Lampo-Mail)** 配合使用，它可以读取你的地址并添加新地址
 
@@ -432,6 +442,7 @@ MIT——随意使用，只需保留我的名字 😉 · 由 Franz Bias（France
 - すべてのタブを対象にした**全体検索**（名前またはアドレス）
 - ワンクリック → アドレスがクリップボードへ、デスクトップ通知、ウィンドウは自動で隠れる
 - **トレイアイコン**（表示 / 終了）と**グローバルショートカット** `Ctrl+Shift+E`（変更可能）
+- **編集モード** ✏️：JSON ファイルを触らずに、ウィンドウ上でアドレスやタブの追加・編集・削除・並べ替えができます
 - 4 つのテーマ：`dark`、`light`、`mint`、`system`。ウィンドウのサイズと位置を記憶
 - **[Lampo Mail](https://github.com/FranzBias/Lampo-Mail)** と連携し、アドレスの読み込みや新規追加が可能
 
